@@ -1,0 +1,8 @@
+﻿  PROJECT-504.cpp
+c:\users\iykej\onedrive\documents\bowie\spring 2020\cosc 504\project-504\project-504\project-504.cpp(533): warning C4805: '!=': unsafe mix of type 'char' and type 'bool' in operation
+c:\users\iykej\onedrive\documents\bowie\spring 2020\cosc 504\project-504\project-504\project-504.cpp(608): warning C4101: 'i': unreferenced local variable
+c:\users\iykej\onedrive\documents\bowie\spring 2020\cosc 504\project-504\project-504\project-504.cpp(869): warning C4101: 'newnode': unreferenced local variable
+c:\users\iykej\onedrive\documents\bowie\spring 2020\cosc 504\project-504\project-504\project-504.cpp(1155): warning C4101: 'ID': unreferenced local variable
+c:\users\iykej\onedrive\documents\bowie\spring 2020\cosc 504\project-504\project-504\project-504.cpp(1373): warning C4101: 'k': unreferenced local variable
+  PROJECT-504.vcxproj -> C:\Users\iykej\OneDrive\Documents\BOWIE\SPRING 2020\COSC 504\PROJECT-504\Debug\PROJECT-504.exe
+  PROJECT-504.vcxproj -> C:\Users\iykej\OneDrive\Documents\BOWIE\SPRING 2020\COSC 504\PROJECT-504\Debug\PROJECT-504.pdb (Partial PDB)

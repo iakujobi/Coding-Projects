@@ -1,0 +1,94 @@
+James Smith    32145 Math411 3 A 
+					 Engl422 3 B 
+					 Phys355 4 A 
+					 Cosc361 4 B
+Amanda George  31109 Math411 3 B 
+					 Chem344 4 B 
+					 Cosc361 4 B 
+					 Eng4l22 3 C
+Lucy Williams  36749 Psyc388 3 C 
+					 Fren421 3 D 
+					 Hist410 3 C 
+					 Engl422 3 B 
+					 Anat390 3 B
+Adam Howard	   31546 Chem344 4 B 
+					 Math411 3 A 
+					 Hist410 3 C 
+					 Engl422 3 B 
+					 Phil477 3 C
+George Brown   31220 Musc444 4 A 
+					 Arts305 4 A 
+					 Engl422 3 B 
+					 Hist410 3 B
+Willy Gates	   30543 Engl419 4 A 
+					 Mrkt478 3 A 
+					 Econ366 3 B 
+					 Mrkt311 4 C
+Ashley James   31321 Chem344 4 C 
+					 Math411 3 A 
+					 Hist410 3 B 
+					 Engl422 3 D 
+					 Phil477 3 C
+Dan Edwards	   34476 Math411 3 B 
+					 Engl422 3 C 
+					 Phys355 4 D 
+					 Cosc361 4 C
+David Sammy	   35109 Psyc388 3 D 
+					 Coun421 3 B 
+					 Hist410 3 C 
+					 Engl422 3 B 
+					 Anat390 3 B
+Racheal John   38850 Musc444 4 B 
+					 Arts305  4 B 
+					 Engl422 3 C 
+					 Hist410 3 A
+Brandon  Jackson 35561	Chem344 4 C 
+						Math411 3 C  
+						Hist410 3 C 
+						Engl422 3 D 
+						Phil477 3 B
+Dina  Lowe	36741  Psyc388 3 A 
+				   Coun421 3 D  
+				   Hist410 3 B  
+				   Engl422 3 D   
+				   Anat390 3 C
+Brad  Green 30179 Engl419 4 C 
+				  Mrkt478 3 B  
+				  Econ366 3 A 
+				  Mrkt311 4 B
+Kevin  Day	37409 Math411 3 A 
+				  Chem344 4 A  
+				  Cosc361 4 A  
+				  Engl422 3 A
+Katty Hill	39137 Math411 3 B 
+				  Engl422 3 B  
+				  Phys355 4 C  
+				  Cosc361 4 B
+Philips Bush 32210 Chem344 4 B  
+				   Math411 3 A  
+				   Hist410 3 A  
+				   Engl422 3 B   
+				   Phil477 3 A
+Hellen  Edwards	38889 Psyc388  3 C   
+					  Coun421  3 A  
+					  Hist410  3 A  
+					  Engl422  3 C   
+					  Anat390  3 D
+Heidi   Abraham  37701	Psyc388  3 B  
+						Fren421  3 A  
+						Hist410  3 B   
+						Anat390  3 A
+Brandon  Lowe 34402	Engl419  4 A	 
+					Mrkt478  3 C 
+					Econ366  3 A 
+					Mrkt311  4 A
+Tiffany  Green	36667  Chem344  4 A 
+					   Math411  3 A 
+					   Hist410  3 A 
+					   Engl422  3 A  
+					   Phil477  3 A
+Edward   Smith	36560	Chem344 4 A 
+						Math411 3 A 
+						Hist410 3 A 
+						Engl422 3 A  
+						Phil477 3 B
